@@ -1,8 +1,9 @@
 ### Como funciona esto : 
 
-La vulnerabilidad me permite tener acceso ilimitado y gratis a la api de Google translate. Esto me permite implementar de manera fácil y rápida la api en cualquier aplicación (ya se web o móvil).
+La vulnerabilidad me permite tener acceso ilimitado y gratis a la api de Google translate. Esto me permite implementar de manera fácil y rápida la api en cualquier aplicación (ya sea web o móvil).
 
-Esto funciona gracias a un posible error de autententicion ya que podemos realizar llamadas a la api sin ningun tipo de token u algun tipo de autorizacion.
+Esto funciona gracias a un posible error de autenticación, ya que podemos realizar llamadas a la api sin ningún tipo de token o algún tipo de autorización.
+
 
 
 <br/>
